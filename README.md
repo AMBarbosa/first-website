@@ -1,1 +1,1 @@
-https://github.com/AMBarbosa/first-website
+https://AMBarbosa.github.io/first-website
